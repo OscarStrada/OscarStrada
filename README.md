@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oscar Estrada
 - 👀 I’m interested in learning web technologies and meet new coders
-- 🌱 I’m currently learning JavaScript and Djando
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript and React
+- 💞️ I’m looking to collaborate on technology business
 - 📫 How to reach me arturostrada2020@gmail.com
 
 <!---
