@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oscar Estrada
 - 👀 I’m interested in learning web technologies and meet new coders
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning NodeJS and React
 - 💞️ I’m looking to collaborate on new projects and business ideas
 - 📫 How to reach me info@khutz.com
 
