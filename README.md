@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oscar Estrada
 - 👀 I’m interested in learning web technologies and meet new coders
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning Typescript and React Native
 - 💞️ I’m looking to collaborate on new projects and business ideas
 - 📫 How to reach me info@khutz.com
 
