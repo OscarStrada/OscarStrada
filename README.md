@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oscar Estrada
+- 👋 Hey, Oscar Estrada here!
 - 👀 I’m interested in learning web technologies and meet new coders
 - 🌱 I’m currently learning Typescript and MySQL
 - 💞️ I’m looking to collaborate on new projects and business ideas
