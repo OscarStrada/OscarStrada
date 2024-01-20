@@ -1,6 +1,6 @@
 - 👋 Hey, Oscar Estrada here!
 - 👀 I’m interested in learning web technologies and meet new coders
-- 🌱 I’m currently learning design patterns and redux
+- 🌱 I’m currently learning design tRPC and SQL
 - 💞️ I’m looking to collaborate on new projects and business ideas
 - 📫 How to reach me info@khutz.com
 
