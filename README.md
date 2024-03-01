@@ -1,6 +1,6 @@
 - 👋 Hey, Oscar Estrada here!
 - 👀 I’m interested in learning web technologies and meet new coders
-- 🌱 I’m currently learning TDD and Rust
+- 🌱 I’m currently learning Rust and tRPC
 - 💞️ I’m looking to collaborate on new projects and business ideas
 - 📫 How to reach me arturostrada2020@gmail.com
 
