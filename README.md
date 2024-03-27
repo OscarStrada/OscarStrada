@@ -1,4 +1,4 @@
-- 👋 Hey, Oscar Estrada here!
+- 👋 Hey, my name is Oscar Estrada
 - 👀 I’m interested in learning web technologies and meet new coders
 - 🌱 I’m currently learning React native
 - 💞️ I’m looking to collaborate on new projects and business ideas
