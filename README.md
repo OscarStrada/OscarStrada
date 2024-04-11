@@ -1,6 +1,6 @@
 - 👋 Hey, my name is Oscar Estrada
 - 👀 I’m interested in learning web technologies and meet new coders
-- 🌱 I’m currently learning AWS and NodeJs
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on new projects and business ideas
 - 📫 How to reach me arturostrada2020@gmail.com
 
