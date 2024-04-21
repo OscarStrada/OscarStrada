@@ -1,4 +1,4 @@
-- 👋 Hey, my name is Oscar Estrada
+- 👋 Hey, my name is Oscar
 - 👀 I’m interested in learning web technologies and meet new coders
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on new projects and business ideas
