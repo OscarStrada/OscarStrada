@@ -1,6 +1,6 @@
 - 👋 Hey, my name is Oscar Estrada.
 - 👀 I’m interested in learning web technologies and meet new coders.
-- 🌱 I’m currently learning TDD and Cypress.
+- 🌱 I’m currently learning TDD and Cypress
 - 💞️ I’m looking to collaborate on new business ideas.
 - 📫 How to reach me arturostrada2020@gmail.com.
 
